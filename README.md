@@ -4,8 +4,8 @@ windows的游戏合集
 
 * pcstory v4.5 集合各种windows破解游戏
 * zlib v3.5.1 windows上的电子书下载神器
-* 街机游戏大全  https://cloud.189.cn/t/AV3IniVjUNJn (访问码：jr1x)
-* 小天才红白机游戏  https://cloud.189.cn/t/U7bQbuvY3E7n（访问码：k9ya）
+* 街机游戏大全  https://cloud.189.cn/t/AV3IniVjUNJn   (访问码：jr1x)
+* 小天才红白机游戏  https://cloud.189.cn/t/U7bQbuvY3E7n  （访问码：k9ya）
 * 资源避难所   各种PC单机游戏下载 [链接](https://www.flysheep6.com/)
 * 全球白嫖网  switch游戏下载  [链接](https://www.gamer520.com/)
 * MAME Plus街机模拟器中文典藏版【9000+ROM】 [夸克网盘链接](https://pan.quark.cn/s/b8ace5a08a3c)
