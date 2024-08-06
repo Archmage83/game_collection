@@ -22,3 +22,5 @@ windows的游戏合集
 3. 选中BaiduNetdiskHost.exe，并点击Open。
 4. 然后回到软件界面，勾选底部的启用速度修改，设置为500，然后应用。虽然百度网盘下载页面速度依然显示几十KB，但是通过测速工具，我们发现实际下载速度可以达到4.21MB/s。
 ```
+
+* [热门游戏网盘维护](https://k12iqbnpx8c.feishu.cn/wiki/GI3Ew2S8YiwUb1kc80VcZoxFndb)
