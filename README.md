@@ -28,7 +28,6 @@ windows的游戏合集
 * 天马2.8T完整版<br>
   [迅雷网盘下载](https://pan.xunlei.com/s/VO2p_bSzmR7wEFasDV4xsHWPA1?pwd=veis) <br>
   [百度网盘下载](https://pan.baidu.com/s/1D8WfWSU92Ydsx81R4DNnVw?pwd=8888) <br>
-* 肖琪游戏论坛<br>
-  [肖琪游戏论坛](https://bbs.xqemu.cn/)
-* 次元狗-游戏<br>
-  [次元狗-游戏](https://www.acgndog.com/category/game)
+* [肖琪游戏论坛](https://bbs.xqemu.cn/)
+* [次元狗-游戏](https://www.acgndog.com/category/game)
+* [爱好论坛](https://www.aihao.cc/forum.php)
