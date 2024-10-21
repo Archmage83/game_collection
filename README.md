@@ -24,7 +24,8 @@ windows的游戏合集
 ```
 
 * [热门游戏网盘维护](https://k12iqbnpx8c.feishu.cn/wiki/GI3Ew2S8YiwUb1kc80VcZoxFndb)
-* 天马2.8T完整版<br><br>
+* 天马2.8T完整版<br>
   [迅雷网盘下载](https://pan.xunlei.com/s/VO2p_bSzmR7wEFasDV4xsHWPA1?pwd=veis) <br>
   [百度网盘下载](https://pan.baidu.com/s/1D8WfWSU92Ydsx81R4DNnVw?pwd=8888) <br>
-
+* 肖琪游戏论坛<br>
+  [肖琪游戏论坛](https://bbs.xqemu.cn/)
