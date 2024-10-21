@@ -20,7 +20,8 @@ windows的游戏合集
 1. 打开这个软件的压缩包，双击启动Cheat Engine,此时不要去动百度网盘。
 2. 软件打开了之后，选择进程管理选项，会看到三个百度网盘的后台进程。
 3. 选中BaiduNetdiskHost.exe，并点击Open。
-4. 然后回到软件界面，勾选底部的启用速度修改，设置为500，然后应用。虽然百度网盘下载页面速度依然显示几十KB，但是通过测速工具，我们发现实际下载速度可以达到4.21MB/s。
+4. 然后回到软件界面，勾选底部的启用速度修改，设置为500，然后应用。
+虽然百度网盘下载页面速度依然显示几十KB，但是通过测速工具，我们发现实际下载速度可以达到4.21MB/s。
 ```
 
 * [热门游戏网盘维护](https://k12iqbnpx8c.feishu.cn/wiki/GI3Ew2S8YiwUb1kc80VcZoxFndb)
@@ -29,3 +30,5 @@ windows的游戏合集
   [百度网盘下载](https://pan.baidu.com/s/1D8WfWSU92Ydsx81R4DNnVw?pwd=8888) <br>
 * 肖琪游戏论坛<br>
   [肖琪游戏论坛](https://bbs.xqemu.cn/)
+* 次元狗-游戏
+  [次元狗-游戏](https://www.acgndog.com/category/game)
