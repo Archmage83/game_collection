@@ -21,3 +21,6 @@ windows的游戏合集
 * [肖琪游戏论坛](https://bbs.xqemu.cn/)
 * [次元狗-游戏](https://www.acgndog.com/category/game)
 * [爱好论坛](https://www.aihao.cc/forum.php)
+* [迅雷云盘分享老游戏合集(公众号:游戏佬窝分享)](https://pan.xunlei.com/s/VNo0G5B1NCYFTIdFJN52ynn2A1?pwd=3t7p)
+* 夸克网盘PC游戏大全(公众号:游戏佬窝分享)
+* UC网盘PC游戏大全(公众号:游戏佬窝分享)
