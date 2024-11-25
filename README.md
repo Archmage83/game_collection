@@ -24,3 +24,4 @@ windows的游戏合集
 * [迅雷云盘分享老游戏合集(公众号:游戏佬窝分享)](https://pan.xunlei.com/s/VNo0G5B1NCYFTIdFJN52ynn2A1?pwd=3t7p)
 * 夸克网盘PC游戏大全(公众号:游戏佬窝分享)
 * UC网盘PC游戏大全(公众号:游戏佬窝分享)
+* [3DM破解游戏网站](http://dl.3dmgame.com)
