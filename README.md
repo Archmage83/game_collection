@@ -31,4 +31,5 @@ windows的游戏合集
 * 夸克网盘PC游戏大全(公众号:游戏佬窝分享)
 * UC网盘PC游戏大全(公众号:游戏佬窝分享)
 * [3DM破解游戏网站](http://dl.3dmgame.com)
-* [单机游戏合集 (B站枸骨果提供)](https://kdocs.cn/l/cu93ywjDVSNC)
+* [单机游戏合集 (B站账号枸骨果提供)](https://kdocs.cn/l/cu93ywjDVSNC)
+* [亦友测评游戏资源站 (B站账号亦友易游)](https://www.kdocs.cn/l/cg8do1sl3LvL)
