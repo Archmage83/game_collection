@@ -33,3 +33,6 @@ windows的游戏合集
 * [3DM破解游戏网站](http://dl.3dmgame.com)
 * [单机游戏合集 (B站账号枸骨果提供)](https://kdocs.cn/l/cu93ywjDVSNC)
 * [亦友测评游戏资源站 (B站账号亦友易游)](https://www.kdocs.cn/l/cg8do1sl3LvL)
+* Switch模拟器 [百度网盘下载](https://pan.baidu.com/s/1EfPLMyuJbREchIgo26eNGA?pwd=rxsg) <br>
+  Switch游戏合集 [夸克网盘下载](https://pan.quark.cn/s/9d5430cbd9ad)<br>
+  模拟器和游戏使用说明文档 [链接](https://mp.weixin.qq.com/s/6tZPYmtGkyiwOJCEM6YpFg)<br>
