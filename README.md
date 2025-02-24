@@ -36,3 +36,4 @@ windows的游戏合集
 * Switch模拟器 [百度网盘下载](https://pan.baidu.com/s/1EfPLMyuJbREchIgo26eNGA?pwd=rxsg) <br>
   Switch游戏合集 [夸克网盘下载](https://pan.quark.cn/s/9d5430cbd9ad)<br>
   模拟器和游戏使用说明文档 [链接](https://mp.weixin.qq.com/s/6tZPYmtGkyiwOJCEM6YpFg)<br>
+* [游戏资源夸克网盘](https://pan.quark.cn/s/e42aadf72d41)<br>
