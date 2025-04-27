@@ -15,7 +15,13 @@ windows的游戏合集
 * 查看浏览器保存密码
 
 * [热门游戏网盘维护](https://k12iqbnpx8c.feishu.cn/wiki/GI3Ew2S8YiwUb1kc80VcZoxFndb)
+
+* 天马G 220GB精简版【轻度用户】<br>
+  [夸克网盘下载](https://pan.quark.cn/s/3a6cc78ff33d)<br>
+  [百度网盘下载](https://pan.baidu.com/s/1dQhEpIIHYppFfPoGUajjVQ?pwd=8888)<br>
+
 * 天马2.8T完整版<br>
+  [夸克网盘下载](https://pan.quark.cn/s/cc0070a0ee4c)<br>
   [迅雷网盘下载](https://pan.xunlei.com/s/VO2p_bSzmR7wEFasDV4xsHWPA1?pwd=veis) <br>
   [百度网盘下载](https://pan.baidu.com/s/1D8WfWSU92Ydsx81R4DNnVw?pwd=8888) <br>
 * [肖琪游戏论坛](https://bbs.xqemu.cn/)
@@ -25,3 +31,9 @@ windows的游戏合集
 * 夸克网盘PC游戏大全(公众号:游戏佬窝分享)
 * UC网盘PC游戏大全(公众号:游戏佬窝分享)
 * [3DM破解游戏网站](http://dl.3dmgame.com)
+* [单机游戏合集 (B站账号枸骨果提供)](https://kdocs.cn/l/cu93ywjDVSNC)
+* [亦友测评游戏资源站 (B站账号亦友易游)](https://www.kdocs.cn/l/cg8do1sl3LvL)
+* Switch模拟器 [百度网盘下载](https://pan.baidu.com/s/1EfPLMyuJbREchIgo26eNGA?pwd=rxsg) <br>
+  Switch游戏合集 [夸克网盘下载](https://pan.quark.cn/s/9d5430cbd9ad)<br>
+  模拟器和游戏使用说明文档 [链接](https://mp.weixin.qq.com/s/6tZPYmtGkyiwOJCEM6YpFg)<br>
+* [游戏资源夸克网盘](https://pan.quark.cn/s/e42aadf72d41)<br>
