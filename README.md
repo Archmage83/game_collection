@@ -38,3 +38,4 @@ windows的游戏合集
   模拟器和游戏使用说明文档 [链接](https://mp.weixin.qq.com/s/6tZPYmtGkyiwOJCEM6YpFg)<br>
 * [游戏资源夸克网盘](https://pan.quark.cn/s/e42aadf72d41)<br>
 * [MxUI街机模拟器](https://pan.quark.cn/s/01efb6098bd8)<br>
+* Switch龙神模拟器 11.53TB [夸克网盘下载](https://pan.quark.cn/s/bfd2eefab387)<br>
