@@ -39,3 +39,4 @@ windows的游戏合集
 * [游戏资源夸克网盘](https://pan.quark.cn/s/e42aadf72d41)<br>
 * [MxUI街机模拟器](https://pan.quark.cn/s/01efb6098bd8)<br>
 * Switch龙神模拟器 11.53TB [夸克网盘下载](https://pan.quark.cn/s/bfd2eefab387)<br>
+* 奇迹单机版 [夸克网盘下载](https://pan.quark.cn/s/24a59d1e7525)
