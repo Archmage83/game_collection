@@ -1,0 +1,4 @@
+*.zip linguist-language=c++
+*.exe linguist-language=c++
+*.txt linguist-language=c++
+*.xls linguist-language=c++
