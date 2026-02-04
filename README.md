@@ -41,3 +41,4 @@ windows的游戏合集
 * Switch龙神模拟器 11.53TB [夸克网盘下载](https://pan.quark.cn/s/bfd2eefab387)<br>
 * 奇迹单机版 [夸克网盘下载](https://pan.quark.cn/s/24a59d1e7525)
 * 游戏下载器
+* PC+安卓+iOS游戏超大合集【21.9T】 [夸克网盘下载](https://pan.quark.cn/s/59edfd6ca072)
