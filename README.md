@@ -42,3 +42,4 @@ windows的游戏合集
 * 奇迹单机版 [夸克网盘下载](https://pan.quark.cn/s/24a59d1e7525)
 * 游戏下载器
 * PC+安卓+iOS游戏超大合集【21.9T】 [夸克网盘下载](https://pan.quark.cn/s/59edfd6ca072)
+* [小霸王在线游戏](https://www.yikm.net/)
